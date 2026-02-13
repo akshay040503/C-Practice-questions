@@ -12,3 +12,6 @@ Problem 2 : Write a Program to read and Print.
 Problem 3 : Write a Program to know the ascii value of given word or letter.
 Problem 4: write a program to swap the value of two numbers.
 Problem 5: Write a program to find the size of any datatype.
+Problem 6: Write a program to find the compound Interest.
+Problem 7: Write a program to find the even number of a given number.
+Problem 8: Write a program to find the largest number. from a given numbers.
