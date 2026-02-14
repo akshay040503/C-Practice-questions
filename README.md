@@ -15,3 +15,5 @@ Problem 5: Write a program to find the size of any datatype.
 Problem 6: Write a program to find the compound Interest.
 Problem 7: Write a program to find the even number of a given number.
 Problem 8: Write a program to find the largest number. from a given numbers.
+Problem 9: Write a program to find the leap year.
+Problem 10: Write a Program to find the prime number.
