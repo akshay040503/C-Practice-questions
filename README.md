@@ -26,3 +26,4 @@ Problem 16: Write a program to compare two array's are equal or not.
 Problem 17: Write a Program to find the average of elements in an array.
 Problem 18: Write a program to find the Maximum and minimum element in an array.
 Problem 19 : Write a program for Linear Search.
+Problem 20: Write a program to apply right rotation to an array element.
