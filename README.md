@@ -28,3 +28,4 @@ Problem 18: Write a program to find the Maximum and minimum element in an array.
 Problem 19 : Write a program for Linear Search.
 Problem 20: Write a program to apply right rotation to an array element.
 Problem 21: Write a program to find the sum of the diagonal of an 4D Array.
+Problem 22: Write a program to find the length of a string.
