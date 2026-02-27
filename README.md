@@ -32,3 +32,5 @@ Problem 22: Write a program to find the length of a string.
 Problem 24: Write a program to compare two string , whether it is same or not.
 Problem 25: Write a program to find a Palindrome of a string for ie. "naman"
 Problem 26: Write a program to Add two binary string.
+Problem 27: Write a program to change the string into integer.
+Problem 28: Write a program to Split the string into subtring.
