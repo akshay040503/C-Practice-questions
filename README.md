@@ -34,3 +34,5 @@ Problem 25: Write a program to find a Palindrome of a string for ie. "naman"
 Problem 26: Write a program to Add two binary string.
 Problem 27: Write a program to change the string into integer.
 Problem 28: Write a program to Split the string into subtring.
+Problem 29: Write a program to print the Pyramid Pattern.
+Problem 30: Write a program to take numbers as input and write it in Bigger form.
