@@ -41,4 +41,5 @@ Problem 32 : Write a program to change Binary value to Decimal Value.\
 Problem 33: Write a program to perform Bubble Sort Algorithm.
 Problem 34: Write a program to perform Binary Search Algorithm.
 Problem 35: Write a program to perform MergeSort Algorithm.
+Problem 36: Write a program to Sort a String.
 
