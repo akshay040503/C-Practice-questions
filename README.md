@@ -46,3 +46,4 @@ Problem 37: Write a program to Add Two complex Numbers.
 Problem 38:Write a Program to Create an Interface.
 Problem 40: Write a program to create a file.
 Problem 41: Write a program to copy one content of file to other file (APPEND).
+Problem 42: Write a Program to Get the List of Files in a Directory.
