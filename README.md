@@ -48,4 +48,5 @@ Problem 40: Write a program to create a file.
 Problem 41: Write a program to copy one content of file to other file (APPEND).
 Problem 42: Write a Program to Get the List of Files in a Directory.
 Problem 43: Write a program to find the maximum and minimum of in the set.
+Problem 44: Write a program to show the DATE DAY AND TIME.
 
