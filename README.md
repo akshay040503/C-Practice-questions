@@ -51,4 +51,5 @@ Problem 43: Write a program to find the maximum and minimum of in the set.
 Problem 44: Write a program to show the DATE DAY AND TIME.
 Problem 45: Program on Digital Tresure Quest.
 Problem 46: Program on Leader Number Problem.
+Problem 47: Program on Mountain Array.
 
