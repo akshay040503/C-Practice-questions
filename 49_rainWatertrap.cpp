@@ -43,3 +43,10 @@ int main()
 
     cout << trap(height);
 }
+// Problem Statement
+
+// You are given an array height[] where each element represents the height of a bar.
+
+// After raining, water can be trapped between bars.
+
+// Your task is to calculate the total amount of water trapped
