@@ -54,4 +54,5 @@ Problem 46: Program on Leader Number Problem.
 Problem 47: Program on Mountain Array.
 Problem 48: Check the number if it is Happy Number or not.
 Problem 49: Rain Water Trapped Problem.(Problem Statement is in the code Down Section).
+Problem 50 : Writ a program on Number Mirror difference.
 
