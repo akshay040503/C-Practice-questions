@@ -28,3 +28,10 @@ int main() {
 
     return 0;
 }
+
+ // Problem: Number Mirror Difference
+// Problem Statement
+
+// Given a number N, create its reverse number and calculate the absolute difference between the original number and the reversed number.
+
+// Return the difference.
